@@ -1,0 +1,55 @@
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    
+    height: 10vh;
+}
+
+#banner {
+    height: 90vh;
+}
+
+#banner .ngee{
+    background: url('th.jpg');
+    background-color: gray;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    
+}
+#banner .meow {
+    padding: 100px;
+}
+
+.btn-primary {
+    background-color: black;
+    border: black;
+    border-radius: 0;
+    padding: 12px 34px;
+    font-size: 20px;
+}
+#banner h6 {
+text-transform: uppercase;
+color: black;
+}
+
+#banner h1 #services h2 {
+    font-size: 68px ;
+
+}
+
+#about {
+    padding: 100px;
+    background-color: gray;
+}
+
+#services {
+    padding: 100px;
+
+}
+
+.card-image-top{
+    border: 2px solid black;
+}
